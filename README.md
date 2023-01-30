@@ -7,6 +7,14 @@ Tela de Login:
 Perfil do usuário:
 ![image](https://user-images.githubusercontent.com/107586888/215534695-9d106f52-b4ff-4be5-9fd4-d0e6c0198b00.png)
 
+Bio antes da alteração:
+![image](https://user-images.githubusercontent.com/107586888/215540041-b5655b1c-6884-40ca-8de8-bbeaddc31cae.png)
+
+Foto, senha, nome e sobrenome podendo ser alterados e salvos para que outros usuarios vejam o mesmo:
+![image](https://user-images.githubusercontent.com/107586888/215539867-b85adefd-3d99-4359-b363-8aee98d84a2f.png)
+
+Bio depois da alteração:
+![image](https://user-images.githubusercontent.com/107586888/215540358-242107f7-9c1f-4590-bc0c-f23ea596f714.png)
 
 Pagina inicial:
 ![image](https://user-images.githubusercontent.com/107586888/215535463-6d4d1735-dea3-487d-a347-a8d9771803a7.png)
